@@ -1,2 +1,2 @@
-import sd 
-sd.swajon_menu()
+import dump 
+dump.main_menu()
