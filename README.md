@@ -1,9 +1,9 @@
 # Unlimited-Dump 
 FILE CREATOR / DUMP SYSTEM 2022
 DUMP UNLIMITED ID WITH 1 ID 
-![Screenshot_2022-11-24-07-13-03-482_com termux](https://user-images.githubusercontent.com/91185222/203672853-c4e129dc-b826-43a4-85a4-0b1e8186fc3a.jpg)
 
-WORKING ON PLATFORM 32bit + 64bit
+
+WORKING ON PLATFORM 64 bit
 
 COMMANDS 👇👇👇👇
 
