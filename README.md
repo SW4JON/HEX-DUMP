@@ -29,11 +29,11 @@ pip install future
 
 pip install bs4
 
-rm -rf Unlimited-Dump
+rm -rf Swajon-Dump
 
-git clone https://github.com/SwajonAhmedofficial/Unlimited-Dump.git
+git clone https://github.com/SW4JON/Unlimited-Dump.git
 
-cd Unlimited-Dump
+cd Swajon-Dump
 
 python swajon.py
 
