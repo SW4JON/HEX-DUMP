@@ -31,7 +31,7 @@ pip install bs4
 
 rm -rf Swajon-Dump
 
-git clone https://github.com/SW4JON/Unlimited-Dump.git
+git clone https://github.com/SW4JON/Swajon-Dump.git
 
 cd Swajon-Dump
 
