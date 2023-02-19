@@ -1,2 +1,2 @@
-import dump 
-dump.main_menu()
+import sd1
+sd1.main_menu()
