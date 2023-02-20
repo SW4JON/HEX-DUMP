@@ -1,2 +1,2 @@
-import sd1
-sd1.main_menu()
+import sd2
+sd2.main_menu()
