@@ -31,11 +31,11 @@ pip install bs4
 
 rm -rf Swajon-Dump
 
-git clone https://github.com/SW4JON/Swajon-Dump.git
+git clone https://github.com/SW4JON/HEX-DUMP.git
 
-cd Swajon-Dump
+cd HEX-DUMP
 
-python swajon.py
+python Hex.py
 
 ![Screenshot_2022-11-20-18-05-35-732_com termux](https://user-images.githubusercontent.com/91185222/203673796-f6b4304d-e663-472d-b5ae-7f71c5d1a98b.jpg)
 
