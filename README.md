@@ -1,4 +1,4 @@
-# Swajon-Dump 
+# HEX-DUMP
 FILE CREATOR / DUMP SYSTEM 2023 😊
 DUMP UNLIMITED ID WITH 1 ID ✅
 
@@ -29,7 +29,7 @@ pip install future
 
 pip install bs4
 
-rm -rf Swajon-Dump
+rm -rf HEX-DUMP
 
 git clone https://github.com/SW4JON/HEX-DUMP.git
 
