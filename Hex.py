@@ -1,2 +1,2 @@
-import newdump
-newdump.main_menu()
+import newd
+new.main_menu()
