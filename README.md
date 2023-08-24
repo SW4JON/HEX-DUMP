@@ -1,33 +1,11 @@
 # HEX-DUMP
-FILE CREATOR / DUMP SYSTEM 2023 😊
-DUMP UNLIMITED ID WITH 1 ID ✅
+FILE MAKING / DUMP SYSTEM 2023 😊
+FB ID DUMPING MULTIPLE SYSTEM ✅
 
+WORKING ON PLATFORM 64/32 bit 🔥🔥
 
-WORKING ON PLATFORM 64 bit
+# COMMANDS 👇👇👇👇
 
-COMMANDS 👇👇👇👇
-
-termux-setup-storage
-
-pkg update -y
-
-pkg upgrade -y
-
-pkg install git -y
-
-pkg install python -y
-
-pkg install python2 -y
-
-python3 -m pip install --upgrade pip
-
-pip install requests
-
-pip install mechanize
-
-pip install future
-
-pip install bs4
 
 rm -rf HEX-DUMP
 
@@ -37,7 +15,8 @@ cd HEX-DUMP
 
 python Hex.py
 
-![Screenshot_2023-04-29-21-31-28-265_com termux](https://user-images.githubusercontent.com/91185222/235310986-0b29c242-fa87-4d8b-90d5-b24df46991a8.jpg)
+![Screenshot_2023-08-24-18-26-05-370_com termux](https://github.com/SW4JON/HEX-DUMP/assets/91185222/be7463ee-8de2-465b-876b-2b77d7cba5cd)
+
 
 
 
