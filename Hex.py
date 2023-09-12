@@ -5,4 +5,4 @@ bit = platform.architecture()[0]
 if bit=='64bit':
     os.system('chmod +x Hex;./Hex')
 elif bit=='32bit':
-    os.system('chmod +x Hex32;./Hex32')
+    os.system('chmod +x hex32;./hex32')
