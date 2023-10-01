@@ -15,7 +15,8 @@ cd HEX-DUMP
 
 python Hex.py
 
-![Screenshot_2023-08-24-18-26-05-370_com termux](https://github.com/SW4JON/HEX-DUMP/assets/91185222/be7463ee-8de2-465b-876b-2b77d7cba5cd)
+![Screenshot_2023-10-01-20-46-28-323_com termux](https://github.com/SW4JON/HEX-DUMP/assets/91185222/7ba2056f-4221-41f7-96a9-ccdd10579a26)
+
 
 
 
